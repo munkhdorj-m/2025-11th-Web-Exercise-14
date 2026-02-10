@@ -1,14 +1,18 @@
-# Web Programming Exercise 13
+# Web Programming Exercise 14
 Javascript Lectures:
 https://drive.google.com/drive/folders/18cbP7MUFi-wQ0m3TJKM8mJLyr6S75cWF?usp=sharing
 
-## Exercise 1: Mini To-Do App   
+## Exercise 1: Color Generator  
 
+Generate colored boxes dynamically.  
+ 
 Requirements:  
-• Add task  
-• Mark as completed (line-through)  
-• Delete task  
 
-https://github.com/user-attachments/assets/16590535-4d8d-483a-bc39-df33a2661cde
+• Button creates 12 color boxes  
+• Clicking a box shows its color code 
+• Hover animation 
+• Grid layout   
+
+https://github.com/user-attachments/assets/f3b1a78c-a7df-41aa-8029-8a6e934bb835
 
 ---
